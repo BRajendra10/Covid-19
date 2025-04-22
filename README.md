@@ -13,6 +13,6 @@ A simple web app that fetches and displays the latest COVID-19 statistics across
 ⚰️ Deaths
 ➕ Total Cases (calculated live)
 
-## Output
+## 📷 UI Preview
 
 ![Output](https://github.com/BRajendra10/Covid-19/blob/601397e49ff120bea5cd6f4974152117500ba1c7/Covid%2019/Covid-19.gif)
